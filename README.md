@@ -1,6 +1,6 @@
 # Tuist Module Plugin
 
-This repo serves as a plugin to the excellent [Tuist](https://tuist.io) Xcode project generator. The plugin adds functionality to easily create a module structure for your repository. Check out the [Runway blog post](https://www.runway.team/blog/getting-started-with-tuist-for-xcode-project-generation-and-modularization-on-ios) for an introduction to Tuist an the structure of modules.
+This repo serves as a plugin to the excellent [Tuist](https://tuist.io) Xcode project generator. The plugin adds functionality to easily create a module structure for your repository. Check out the Runway blog for an [introduction to Tuist and the structure of modules](https://www.runway.team/blog/getting-started-with-tuist-for-xcode-project-generation-and-modularization-on-ios), and the followup blog post on [how to build and publish a Tuist plugin using SPM and version control](https://www.runway.team/blog/how-to-build-a-tuist-plugin-and-publish-it-using-spm-and-version-control).
 
 ## Getting Started
 
